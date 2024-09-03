@@ -1,7 +1,7 @@
 class Solution {
     public String longestCommonPrefix(String[] strs) {
 
-        String prefix = strs[0];
+        StringBuilder prefix = new StringBuilder(strs[0]);
 
         for(int i=1; i<strs.length; i++){
             String temp = "";
@@ -15,11 +15,12 @@ class Solution {
             if(temp.equals("")){
                 return "";
             }else{
-                prefix = temp;
+                prefix.setLength(0);
+                prefix.append(temp);
             }
         }
 
-        return prefix;
+        return prefix.toString();
         
     }
 }
