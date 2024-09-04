@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/GurpreetKooner/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/GurpreetKooner/LeetCode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/GurpreetKooner/LeetCode/tree/master/0686-repeated-string-match) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/GurpreetKooner/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Trie
 |  |
 | ------- |
