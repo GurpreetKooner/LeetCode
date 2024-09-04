@@ -5,15 +5,7 @@ class Solution {
 
         if (nl > hl) {
             return -1;
-        } 
-        // else if (nl == hl) {
-        //     if (haystack.equals(needle)) {
-        //         return 0;
-        //     } else {
-        //         return -1;
-        //     }
-        // }
-         else {
+        } else {
             for (int i = 0; i <= hl - nl; i++) {
                 String ss = haystack.substring(i, i + nl);
                 if (ss.equals(needle)) {
