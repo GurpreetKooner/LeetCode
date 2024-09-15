@@ -12,18 +12,8 @@ class Solution {
                 } else {
                     arr[i][j] = arr[i - 1][j] + arr[i][j - 1];
                 }
-
-                // arr[i][j] += 1;
-                // if (j != n - 1) {
-                //     arr[i][j] += 1;
-                // } else if (i != m - 1) {
-                //     arr[i][j] += 1;
-                // }
             }
         }
-
         return arr[m-1][n-1];
     }
-
-    
 }
