@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/GurpreetKooner/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/GurpreetKooner/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/GurpreetKooner/LeetCode/tree/master/0062-unique-paths) |
 ## Recursion
 |  |
 | ------- |
@@ -89,9 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/GurpreetKooner/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/GurpreetKooner/LeetCode/tree/master/0062-unique-paths) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GurpreetKooner/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/GurpreetKooner/LeetCode/tree/master/0686-repeated-string-match) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/GurpreetKooner/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
