@@ -15,9 +15,8 @@ class Solution {
             if(sb.indexOf(b)==-1){
                 return -1;
             }
-        }else{
-            return count;
         }
         return count;
+        
     }
 }
