@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GurpreetKooner/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/GurpreetKooner/LeetCode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/GurpreetKooner/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/GurpreetKooner/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/GurpreetKooner/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/GurpreetKooner/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/GurpreetKooner/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GurpreetKooner/LeetCode/tree/master/0169-majority-element) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/GurpreetKooner/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/GurpreetKooner/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/GurpreetKooner/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/GurpreetKooner/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/GurpreetKooner/LeetCode/tree/master/0242-valid-anagram) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/GurpreetKooner/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GurpreetKooner/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/GurpreetKooner/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/GurpreetKooner/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/GurpreetKooner/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/GurpreetKooner/LeetCode/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/GurpreetKooner/LeetCode/tree/master/0686-repeated-string-match) |
