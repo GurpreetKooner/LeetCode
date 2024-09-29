@@ -1,18 +1,21 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int hl = haystack.length();
-        int nl = needle.length();
+        // int hl = haystack.length();
+        // int nl = needle.length();
 
-        if (nl > hl) {
-            return -1;
-        } else {
-            for (int i = 0; i <= hl - nl; i++) {
-                String ss = haystack.substring(i, i + nl);
-                if (ss.equals(needle)) {
-                    return i;
-                }
-            }
-        }
-        return -1;
+        // if (nl > hl) {
+        //     return -1;
+        // } else {
+        //     for (int i = 0; i <= hl - nl; i++) {
+        //         String ss = haystack.substring(i, i + nl);
+        //         if (ss.equals(needle)) {
+        //             return i;
+        //         }
+        //     }
+        // }
+        // return -1;
+
+        StringBuilder sb = new StringBuilder(haystack);
+        return sb.indexOf(needle);
     }
 }
